@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Data Automation
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me send a message or add me at Lynkedin as Thiago Onohara
+- 📫 How to reach me send a message or add me at LinkedIn as Thiago Onohara
 
 <!---
 ThiagoOnohara/ThiagoOnohara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
